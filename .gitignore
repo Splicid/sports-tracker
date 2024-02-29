@@ -1,0 +1,38 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Compiled Python bytecode
+*.pyc
+
+# Logs
+*.log
+
+# Cache and session directories
+instance/
+.cache/
+
+# Local development configuration
+config.py
+
+# Database files
+*.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated files
+*.csv
+*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
